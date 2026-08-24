@@ -12,10 +12,10 @@ public class Medicarehospitalsystem {
 
     public static void main(String[] args) {
         boolean running = true;
-        while (running) {
-            System.out.println("\n==========================================");
+        while (running) { 
+            System.out.println("\n****************************************");
             System.out.println("       MEDICARE HOSPITAL ADMISSION        ");
-            System.out.println("==========================================");
+            System.out.println("******************************************");
             System.out.println("1. Patient Management");
             System.out.println("2. Bed Management");
             System.out.println("3. Reports");
