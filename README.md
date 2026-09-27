@@ -8,8 +8,11 @@ This project models a hospital's patient admission and bed allocation workflow. 
 
 ## Features
 Patient admission —register new patients and assign them to available beds
+
 Ward and bed management — interactive layout tracking bed occupancy across wards
+
 Discharge handling — free up beds and update records on patient discharge
+
 Unit tested — full JUnit test suite covering core logic (admission, bed assignment, discharge)
 
 ## Tech Stack
